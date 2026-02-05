@@ -1,0 +1,3 @@
+Mohammed : Design, code et correction/beta testing
+Akima : code html, css
+Magali : php base de données
